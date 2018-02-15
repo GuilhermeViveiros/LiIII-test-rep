@@ -1,0 +1,6 @@
+1-> git status
+
+    lista os ficheiro alterados no repositorio local.
+    
+    git add <nome do ficheiro>
+      seleciona os ficheiro a enviar.
